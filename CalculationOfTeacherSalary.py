@@ -58,3 +58,7 @@ print(teacher)
 teacher.set_pay_per_one_hour(1000000)
 teacher.set_hour(50)
 print(teacher.payment())
+
+# Name of the programmer: Maryam Jamali
+# Email address: m.jamali16@yahoo.com
+# GitHub address: https://github.com/MaryaJamali
